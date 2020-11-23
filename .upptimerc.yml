@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ChungZH's Status Website
   introTitle: "今天 ChungZH 的网站又双叒叕 **崩** 了吗？"
-  introMessage: 本站使用 [upptime](https://github.com/upptime/upptime) 搭建。
+  introMessage: 每天都要崩八次哦！
   navbar:
     - title: Status
       href: /
