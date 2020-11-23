@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: ChungZH # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
@@ -8,6 +8,8 @@ sites:
     url: https://chungzh.cn
   - name: ChungZH's blog
     url: https://blog.chungzh.cn
+  - name: EasyHexo
+    url: https://easyhexo.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
