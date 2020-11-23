@@ -5,7 +5,7 @@
     "slug": "chung-zh-s-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "time": 653
+    "time": 582
   },
   {
     "name": "ChungZH's blog",
@@ -13,7 +13,7 @@
     "slug": "chung-zh-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 704
+    "time": 640
   },
   {
     "name": "EasyHexo",
@@ -21,6 +21,6 @@
     "slug": "easy-hexo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 484
+    "time": 388
   }
 ]
