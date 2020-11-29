@@ -10,6 +10,9 @@ sites:
     url: https://blog.chungzh.cn
   - name: EasyHexo
     url: https://easyhexo.com
+  - name: HelloGitHub
+    url: https://hellogithub.com/
+    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -19,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ChungZH's Status Website
   introTitle: "今天 ChungZH 的网站又双叒叕 **崩** 了吗？"
-  introMessage: 一起来做一天崩八次的网站吧！
+  introMessage: 一天最少要崩八次哦！
   navbar:
     - title: Status
       href: /
