@@ -5,7 +5,7 @@
     "slug": "chung-zh-s-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "time": 510
+    "time": 518
   },
   {
     "name": "ChungZH's blog",
@@ -13,7 +13,7 @@
     "slug": "chung-zh-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 526
+    "time": 517
   },
   {
     "name": "EasyHexo",
@@ -21,7 +21,7 @@
     "slug": "easy-hexo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 283
+    "time": 287
   },
   {
     "name": "HelloGitHub",
@@ -29,6 +29,6 @@
     "slug": "hello-git-hub",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1508
+    "time": 1540
   }
 ]
