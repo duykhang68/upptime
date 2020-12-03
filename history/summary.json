@@ -5,7 +5,15 @@
     "slug": "chung-zh-s-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "time": 518
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 516,
+    "timeDay": 484,
+    "timeWeek": 496,
+    "timeMonth": 516,
+    "timeYear": 516
   },
   {
     "name": "ChungZH's blog",
@@ -13,7 +21,15 @@
     "slug": "chung-zh-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 517
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 517,
+    "timeDay": 510,
+    "timeWeek": 477,
+    "timeMonth": 517,
+    "timeYear": 517
   },
   {
     "name": "EasyHexo",
@@ -21,7 +37,15 @@
     "slug": "easy-hexo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 287
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 283,
+    "timeDay": 202,
+    "timeWeek": 234,
+    "timeMonth": 283,
+    "timeYear": 283
   },
   {
     "name": "HelloGitHub",
@@ -29,6 +53,14 @@
     "slug": "hello-git-hub",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1540
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1495,
+    "timeDay": 1314,
+    "timeWeek": 1495,
+    "timeMonth": 1495,
+    "timeYear": 1495
   }
 ]
