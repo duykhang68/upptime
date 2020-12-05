@@ -27,7 +27,7 @@
     "uptimeYear": "100.00%",
     "time": 509,
     "timeDay": 520,
-    "timeWeek": 448,
+    "timeWeek": 428,
     "timeMonth": 509,
     "timeYear": 509
   },
@@ -51,7 +51,7 @@
     "name": "HelloGitHub",
     "url": "https://hellogithub.com/",
     "slug": "hello-git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
