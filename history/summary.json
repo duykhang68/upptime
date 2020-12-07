@@ -2,6 +2,7 @@
   {
     "name": "ChungZH's portfolio",
     "url": "https://chungzh.cn",
+    "icon": "https://favicons.githubusercontent.com/chungzh.cn",
     "slug": "chung-zh-s-portfolio",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 615,
-    "timeWeek": 512,
-    "timeMonth": 511,
-    "timeYear": 511
+    "time": 503,
+    "timeDay": 360,
+    "timeWeek": 502,
+    "timeMonth": 503,
+    "timeYear": 503,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ChungZH's blog",
     "url": "https://blog.chungzh.cn",
+    "icon": "https://favicons.githubusercontent.com/blog.chungzh.cn",
     "slug": "chung-zh-s-blog",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 501,
-    "timeWeek": 440,
-    "timeMonth": 509,
-    "timeYear": 509
+    "time": 513,
+    "timeDay": 611,
+    "timeWeek": 492,
+    "timeMonth": 513,
+    "timeYear": 513,
+    "dailyMinutesDown": {}
   },
   {
     "name": "EasyHexo",
     "url": "https://easyhexo.com",
+    "icon": "https://favicons.githubusercontent.com/easyhexo.com",
     "slug": "easy-hexo",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 359,
-    "timeWeek": 290,
-    "timeMonth": 296,
-    "timeYear": 296
+    "time": 293,
+    "timeDay": 238,
+    "timeWeek": 304,
+    "timeMonth": 293,
+    "timeYear": 293,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HelloGitHub",
     "url": "https://hellogithub.com/",
+    "icon": "https://favicons.githubusercontent.com/hellogithub.com",
     "slug": "hello-git-hub",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1567,
-    "timeDay": 1883,
-    "timeWeek": 1567,
-    "timeMonth": 1567,
-    "timeYear": 1567
+    "time": 1538,
+    "timeDay": 1273,
+    "timeWeek": 1539,
+    "timeMonth": 1538,
+    "timeYear": 1538,
+    "dailyMinutesDown": {}
   }
 ]
